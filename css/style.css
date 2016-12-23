@@ -133,6 +133,7 @@ body{
 	position: absolute;
 	background-color: #303030;
 	top: 31px;
+	z-index: 1;
 	box-shadow: 0 4px 17px 3px #000000;
 }
 
